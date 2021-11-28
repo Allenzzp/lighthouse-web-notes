@@ -7,4 +7,3 @@ This repository contains all of the notes taken by [Allen](https://github.com/Al
 ## Table of Contents
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
-  * [Need to figure out](/Weel_1)
